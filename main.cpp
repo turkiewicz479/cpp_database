@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    int rek_licz =0;
+    std::cout << "Hello, World!" <<std::endl<<"Liczba zapisanych rekordów: "<< rek_licz;
     return 0;
 }

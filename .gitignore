@@ -1,0 +1,17 @@
+# Ignoruj pliki kompilowane
+*.o
+*.out
+*.exe
+
+# Ignoruj katalogi wygenerowane przez kompilatory
+/cmake-build-debug/
+/bin/
+/obj/
+/.idea
+/.vscode
+# Ignoruj pliki konfiguracyjne
+.env
+config.ini
+
+# Ignoruj pliki tymczasowe
+*.tmp
